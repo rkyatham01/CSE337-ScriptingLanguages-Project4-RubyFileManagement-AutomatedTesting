@@ -1,0 +1,2 @@
+abrev pattern be the second file
+the ^foundhere is here
